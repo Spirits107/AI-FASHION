@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Elegant Saree",
+    "bodyTypes": ["Hourglass", "Pear"],
+    "sizes": ["M", "L", "XL"],
+    "styles": ["Traditional", "Party"],
+    "weather": ["Summer"],
+    "image": "https://dirabydimple.com/cdn/shop/articles/Main_Image_d5e05e79-1fa4-4e01-9025-8b42c5137759.webp?v=1717963135"
+  },
+  {
+    "name": "Punjabi Suit",
+    "bodyTypes": ["Apple", "Rectangle"],
+    "sizes": ["S", "M", "L"],
+    "styles": ["Traditional", "Casual"],
+    "weather": ["Winter"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8zgWGSjkXPtLBwmN254oWGmAbBMVz0yPENw&s"
+  },
+  {
+    "name": "Cocktail Dress",
+    "bodyTypes": ["Hourglass", "Apple"],
+    "sizes": ["XS", "S", "M"],
+    "styles": ["Party", "Modern"],
+    "weather": ["Summer"],
+    "image": "https://m.media-amazon.com/images/I/51EHgazfxHL._UY1100_.jpg"
+  },
+  {
+    
+  "name": "Floral Lehenga",
+  "bodyTypes": ["Pear", "Rectangle"],
+  "sizes": ["M", "L"],
+  "styles": ["Wedding", "Party"],
+  "weather": ["Spring", "Summer"],
+  "image": "https://surabhichopralabel.com/cdn/shop/files/pink_lehenga.jpg?v=1726230410"
+}
+
+  
+]
